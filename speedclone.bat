@@ -1,0 +1,1 @@
+rclone copy --max-depth 1 --transfers 16 --checkers 32 "X:\For_Brandon\2020-07-29-NDN-WIL2SLatBTreated\Cropped" "gdrive:processing_job/raw_data/" --progress

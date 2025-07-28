@@ -1,0 +1,1 @@
+7z a -r- "X:\zipped_data.zip" "X:\For_Brandon\2020-07-29-NDN-WIL2SLatBTreated\Cropped\" && rclone copy "X:\zipped_data.zip" "gdrive:processing_job/" --progress
